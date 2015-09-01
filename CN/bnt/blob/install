@@ -1,0 +1,79 @@
+{
+	"all": {
+		"config": {
+			"form": {
+				"eula": {
+					"eula": false
+				}, 
+				"game_dir": {
+					"dirname": "Heroes of the Storm Alpha"
+				}
+			}
+		}
+	}, 
+	"enus": {
+		"mac": {
+			"config": {
+			}
+		}, 
+		"win": {
+			"config": {
+				"addremove_support_url": "http://us.blizzard.com/support/",
+				"install": [
+					{
+						"create_link": {
+							"target": "Heroes of the Storm.exe",
+							"root": "%commonstartmenu%",
+							"link": "Heroes of the Storm Alpha\\Heroes of the Storm Alpha.lnk"
+						}
+					}
+				]
+			}
+		}
+	}, 
+	"platform": {
+		"mac": {
+			"config": {
+				"form": {
+					"game_dir": {
+						"default": "Applications", 
+						"required_space": 6000000000
+					}
+				}
+			}
+		}, 
+		"win": {
+			"config": {
+				"form": {
+					"game_dir": {
+						"default": "Program Files", 
+						"required_space": 6000000000
+					}
+				}
+			}
+		}
+	}, 
+	"bnt": {
+		"config": {
+			"form": {
+				"language": {
+					"default": [
+						"enUS"
+					], 
+					"list": [
+						"enUS"
+					]
+				}
+			},
+			"display_locales": [
+				"enUS"
+			], 
+			"launch_arguments": [
+				"-launch", 
+				"-uid", 
+				"bnt"
+			],
+			"tome_torrent": "ngdp" 
+		}
+	} 
+}
