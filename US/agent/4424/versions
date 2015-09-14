@@ -1,4 +1,4 @@
-Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|Keyring!HEX:16|BuildId!DEC:4|VersionName!String:0
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|Keyring!HEX:16|BuildId!DEC:4|VersionsName!String:0
 us|24470eceef11f5ad9e16514614c0e012|e09c39c5bd289c4f4418f569b79c82ac||4424|2.0.1.4424
 eu|24470eceef11f5ad9e16514614c0e012|e09c39c5bd289c4f4418f569b79c82ac||4424|2.0.1.4424
 cn|24470eceef11f5ad9e16514614c0e012|e09c39c5bd289c4f4418f569b79c82ac||4424|2.0.1.4424
