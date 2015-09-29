@@ -1,6 +1,6 @@
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0
-us|tpr/wow|dist.blizzard.com.edgesuite.net dist.blizzard.com
-eu|tpr/wow|dist.blizzard.com.edgesuite.net dist.blizzard.com
-kr|tpr/wow|dist.blizzard.com.edgesuite.net blizzard.nefficient.co.kr
-tw|tpr/wow|dist.blizzard.com.edgesuite.net dist.blizzard.com
-cn|tpr/wow|dist.blizzard.com.edgesuite.net client01.pdl.wow.battlenet.com.cn client02.pdl.wow.battlenet.com.cn client03.pdl.wow.battlenet.com.cn client04.pdl.wow.battlenet.com.cn
+us|tpr/wow|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com
+eu|tpr/wow|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com
+kr|tpr/wow|blizzard.nefficient.co.kr blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
+tw|tpr/wow|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com
+cn|tpr/wow|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net client01.pdl.wow.battlenet.com.cn client02.pdl.wow.battlenet.com.cn client03.pdl.wow.battlenet.com.cn client04.pdl.wow.battlenet.com.cn
