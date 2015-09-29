@@ -1,7 +1,7 @@
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0
-us|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com
-eu|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com
+us|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
+eu|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
 kr|tpr/Hero-Live-a|blizzard.nefficient.co.kr blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
-sg|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com
-tw|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com
+sg|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
+tw|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
 cn|tpr/Hero-Live-a|client01.pdl.wow.battlenet.com.cn client02.pdl.wow.battlenet.com.cn client03.pdl.wow.battlenet.com.cn client04.pdl.wow.battlenet.com.cn blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
