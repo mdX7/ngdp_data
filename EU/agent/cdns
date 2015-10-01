@@ -1,7 +1,7 @@
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0
-us|tpr/bnt001|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
-eu|tpr/bnt001|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
-sg|tpr/bnt001|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
+us|tpr/bnt001|level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com blzddist1-a.akamaihd.net
+eu|tpr/bnt001|level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com blzddist1-a.akamaihd.net
+sg|tpr/bnt001|level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com blzddist1-a.akamaihd.net
 kr|tpr/bnt001|blizzard.nefficient.co.kr blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
-tw|tpr/bnt001|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com
+tw|tpr/bnt001|level3.blizzard.com llnw.blizzard.com edgecast.blizzard.com blzddist1-a.akamaihd.net
 cn|tpr/bnt001|client01.pdl.wow.battlenet.com.cn client02.pdl.wow.battlenet.com.cn client03.pdl.wow.battlenet.com.cn client04.pdl.wow.battlenet.com.cn blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
