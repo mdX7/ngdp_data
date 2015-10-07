@@ -1,4 +1,4 @@
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0
-us|tpr/Hero-Live-a|dist.blizzard.com.edgesuite.net dist.blizzard.com
-eu|tpr/Hero-Live-a|dist.blizzard.com.edgesuite.net dist.blizzard.com
-kr|tpr/Hero-Live-a|dist.blizzard.com.edgesuite.net dist.blizzard.com
+us|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
+eu|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
+kr|tpr/Hero-Live-a|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
