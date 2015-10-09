@@ -1,5 +1,5 @@
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0
-us|tpr/sc2|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
-eu|tpr/sc2|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
+us|tpr/sc2|llnw.blizzard.com blzddist1-a.akamaihd.net
+eu|tpr/sc2|llnw.blizzard.com blzddist1-a.akamaihd.net
 kr|tpr/sc2|blizzard.nefficient.co.kr blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
-tw|tpr/sc2|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net blzddist3-a.akamaihd.net
+tw|tpr/sc2|llnw.blizzard.com blzddist1-a.akamaihd.net
