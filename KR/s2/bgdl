@@ -1,2 +1,1 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|BuildId!DEC:4|VersionsName!String:0
-us|e9e4f48a4761260cf018c767805d1aea|6a85872d5ae67bc4d61d3a876bfad24e|38996|.38996_BGDL_Encrypted
