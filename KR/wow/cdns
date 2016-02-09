@@ -1,6 +1,6 @@
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0
-us|tpr/wow|level3.blizzard.com blzddist1-a.akamaihd.net 
-eu|tpr/wow|level3.blizzard.com blzddist1-a.akamaihd.net
+us|tpr/wow|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net 
+eu|tpr/wow|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net
 kr|tpr/wow|blzddistkr1-a.akamaihd.net blizzard.nefficient.co.kr blzddist1-a.akamaihd.net
-tw|tpr/wow|level3.blizzard.com blzddist1-a.akamaihd.net
+tw|tpr/wow|blzddist1-a.akamaihd.net blzddist2-a.akamaihd.net
 cn|tpr/wow|client01.pdl.wow.battlenet.com.cn client02.pdl.wow.battlenet.com.cn client03.pdl.wow.battlenet.com.cn client04.pdl.wow.battlenet.com.cn blzddist1-a.akamaihd.net
