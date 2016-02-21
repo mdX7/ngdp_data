@@ -1,0 +1,1 @@
+{"all":{"config":{"form":{"eula":{"eula":false}}}},"platform":{"mac":{"config":{"form":{"game_dir":{"default":"Applications","dirname":"Battle.net.app/Contents","required_space":350000000.0}}}},"win":{"config":{"form":{"game_dir":{"default":"Program Files","dirname":"Battle.net","required_space":250000000.0}}}}}}
