@@ -1,0 +1,6 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|Keyring!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+us|c5f5ef2fcf0dd56bf8a281c4b182d346|52caf6ceb96b77cb51407f56dd4362e7||4835|2.5.1.4835|
+eu|c5f5ef2fcf0dd56bf8a281c4b182d346|52caf6ceb96b77cb51407f56dd4362e7||4835|2.5.1.4835|
+cn|c5f5ef2fcf0dd56bf8a281c4b182d346|52caf6ceb96b77cb51407f56dd4362e7||4835|2.5.1.4835|
+kr|c5f5ef2fcf0dd56bf8a281c4b182d346|52caf6ceb96b77cb51407f56dd4362e7||4835|2.5.1.4835|
+tw|c5f5ef2fcf0dd56bf8a281c4b182d346|52caf6ceb96b77cb51407f56dd4362e7||4835|2.5.1.4835|
