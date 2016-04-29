@@ -1,1 +1,1 @@
-{"all":{"config":{"form":{"eula":{"eula":false},"game_dir":{"dirname":"Overwatch"}}}},"platform":{"win":{"config":{"form":{"game_dir":{"default":"Program Files","required_space":5000000000,"space_per_extra_language":750000000}}}}}}
+{"all":{"config":{"form":{"eula":{"eula":false},"game_dir":{"dirname":"Overwatch"}}}},"platform":{"win":{"config":{"form":{"game_dir":{"default":"Program Files","required_space":6500000000,"space_per_extra_language":250000000}}}}}}
