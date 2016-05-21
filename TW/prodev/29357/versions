@@ -1,2 +1,2 @@
-Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|BuildId!DEC:4|VersionsName!String:0
-us|3e00455f5801ebe62cb4c6189e9c3141|c7ff9449a4160cce563e8e8d5d2f885b|29357|1.0.5.0.29357
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+us|3e00455f5801ebe62cb4c6189e9c3141|c7ff9449a4160cce563e8e8d5d2f885b||29357|1.0.5.0.29357|
