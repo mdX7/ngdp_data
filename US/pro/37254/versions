@@ -2,4 +2,4 @@ Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4
 us|3a05edeaadcfaceada8fab63218ccb90|3dee3a4530d2a63e56cc26fd12b0e7d5|6da3952c70edc558ef9fb8ac7bb56d6f|37254|1.11.1.2.37254|
 eu|e7a1ffff0de8b2b75667c2aef28ecc77|3dee3a4530d2a63e56cc26fd12b0e7d5|6da3952c70edc558ef9fb8ac7bb56d6f|36923|1.11.1.2.36923|
 cn|3a05edeaadcfaceada8fab63218ccb90|3dee3a4530d2a63e56cc26fd12b0e7d5|6da3952c70edc558ef9fb8ac7bb56d6f|37254|1.11.1.2.37254|
-kr|e7a1ffff0de8b2b75667c2aef28ecc77|3dee3a4530d2a63e56cc26fd12b0e7d5|6da3952c70edc558ef9fb8ac7bb56d6f|36923|1.11.1.2.36923|
+kr|3a05edeaadcfaceada8fab63218ccb90|3dee3a4530d2a63e56cc26fd12b0e7d5|6da3952c70edc558ef9fb8ac7bb56d6f|37254|1.11.1.2.37254|
