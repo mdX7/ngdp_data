@@ -1,0 +1,8 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+us|3299adcb4cdd3f374a7d6df838ffd31f|a1fa33bd1ffa414032267bdbbacef95c||9093|1.8.5.9093|986a5fd14f1413fab2a0b1c342dbeb41
+eu|3299adcb4cdd3f374a7d6df838ffd31f|a1fa33bd1ffa414032267bdbbacef95c||9093|1.8.5.9093|986a5fd14f1413fab2a0b1c342dbeb41
+cn|3299adcb4cdd3f374a7d6df838ffd31f|a1fa33bd1ffa414032267bdbbacef95c||9093|1.8.5.9093|986a5fd14f1413fab2a0b1c342dbeb41
+kr|3299adcb4cdd3f374a7d6df838ffd31f|a1fa33bd1ffa414032267bdbbacef95c||9093|1.8.5.9093|986a5fd14f1413fab2a0b1c342dbeb41
+tw|3299adcb4cdd3f374a7d6df838ffd31f|a1fa33bd1ffa414032267bdbbacef95c||9093|1.8.5.9093|986a5fd14f1413fab2a0b1c342dbeb41
+sg|3299adcb4cdd3f374a7d6df838ffd31f|a1fa33bd1ffa414032267bdbbacef95c||9093|1.8.5.9093|986a5fd14f1413fab2a0b1c342dbeb41
+beta|4ee8241f493e910ee5e9421aeffdb7dd|a1fa33bd1ffa414032267bdbbacef95c||9195|1.9.0.9195|ad70510de914755d248408e7387d33b5
