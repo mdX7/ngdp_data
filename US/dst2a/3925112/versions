@@ -1,0 +1,2 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+us|d8f01c54a0597535715fb0b9f457617e|8c1e919223f26da4f54a31c2d057a839||3925112|3925112-Takehome|
