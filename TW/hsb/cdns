@@ -3,4 +3,4 @@ eu|tpr/hs|blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data|
 kr|tpr/hs|blzddistkr1-a.akamaihd.net blizzard.nefficient.co.kr blzddist1-a.akamaihd.net|tpr/configs/data|
 us|tpr/hs|blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data|
 tw|tpr/hs|blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data|
-cn|tpr/hs|client02.pdl.wow.battlenet.com.cn blzddist1-a.akamaihd.net client01.pdl.wow.battlenet.com.cn client04.pdl.wow.battlenet.com.cn|tpr/configs/data|https://client02.pdl.wow.battlenet.com.cn/?fallback=1 https://client01.pdl.wow.battlenet.com.cn/?fallback=1 https://client04.pdl.wow.battlenet.com.cn/?fallback=1
+cn|tpr/hs|client02.pdl.wow.battlenet.com.cn blzddist1-a.akamaihd.net client01.pdl.wow.battlenet.com.cn client04.pdl.wow.battlenet.com.cn|tpr/configs/data|http://client02.pdl.wow.battlenet.com.cn http://blzddist1-a.akamaihd.net http://client01.pdl.wow.battlenet.com.cn http://client04.pdl.wow.battlenet.com.cn https://client02.pdl.wow.battlenet.com.cn/?fallback=1 https://client01.pdl.wow.battlenet.com.cn/?fallback=1 https://client04.pdl.wow.battlenet.com.cn/?fallback=1
