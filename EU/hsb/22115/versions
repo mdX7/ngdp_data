@@ -1,0 +1,8 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+us|55178be682c6e87f8f46dbb5797871d7|7e1fede843c3b357a68bfffe92f3eebe||22115|9.4.0.22115|
+eu|55178be682c6e87f8f46dbb5797871d7|7e1fede843c3b357a68bfffe92f3eebe||22115|9.4.0.22115|
+cn|55178be682c6e87f8f46dbb5797871d7|7e1fede843c3b357a68bfffe92f3eebe||22115|9.4.0.22115|
+kr|55178be682c6e87f8f46dbb5797871d7|7e1fede843c3b357a68bfffe92f3eebe||22115|9.4.0.22115|
+android_google|c7a14592253cb960beb3562da0a71ce9|7e1fede843c3b357a68bfffe92f3eebe||21517|9.2.0.21517|
+android_amazon|c7a14592253cb960beb3562da0a71ce9|7e1fede843c3b357a68bfffe92f3eebe||21517|9.2.0.21517|
+android_cn|c7a14592253cb960beb3562da0a71ce9|7e1fede843c3b357a68bfffe92f3eebe||21517|9.2.0.21517|
