@@ -1,0 +1,5 @@
+Name!STRING:0|Path!STRING:0|Hosts!STRING:0|ConfigPath!STRING:0
+us|tpr/wowdev|edgecast.blizzard.com blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data
+eu|tpr/wowdev|edgecast.blizzard.com blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data
+kr|tpr/wowdev|blzddistkr1-a.akamaihd.net blizzard.nefficient.co.kr blzddist1-a.akamaihd.net|tpr/configs/data
+xx|tpr/wowdev|edgecast.blizzard.com blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data
