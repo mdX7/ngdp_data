@@ -1,8 +1,8 @@
-Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|Keyring!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
 us|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
 eu|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
-cn|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
 kr|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
 tw|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
+cn|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
 sg|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
 xx|0609b0fdf4cda38b8962ca39389b918d|d8435e2a38cbbad9bf28070dbded663b||22451|7.0.3.22451|
