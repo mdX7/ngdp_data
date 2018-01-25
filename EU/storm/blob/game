@@ -1,0 +1,214 @@
+{
+    "all": {
+        "config": {
+            "beta": true,
+            "data_dir": "BNTData/",
+            "expansion_level": 1,
+            "product": "storm",
+            "ptr": false,
+            "register_game_info": {
+                "folder_name": "Heroes of the Storm Tech Alpha",
+                "language_hint_table": {
+                    "en": [
+                        "enUS"
+                    ]
+                },
+                "locale_regex": "",
+                "region_hint_table": {
+                    "CN": [
+                        "zhCN"
+                    ],
+                    "EU": [
+                        "deDE",
+                        "enGB",
+                        "esES",
+                        "ptPT",
+                        "frFR",
+                        "itIT",
+                        "plPL",
+                        "ruRU"
+                    ],
+                    "KR": [
+                        "koKR"
+                    ],
+                    "SG": [
+                        "enSG"
+                    ],
+                    "TW": [
+                        "zhTW"
+                    ],
+                    "US": [
+                        "enUS",
+                        "esMX",
+                        "ptBR"
+                    ]
+                },
+                "uid_format_string": "storm",
+                "valid_uids": [
+                    "storm"
+                ]
+            },
+            "supported_locales": [
+                "enUS"
+            ],
+            "supports_multibox": false,
+            "supports_offline": false,
+            "switcher": true,
+            "update_method": "ngdp"
+        }
+    },
+    "dede": {},
+    "engb": {},
+    "ensg": {},
+    "enus": {},
+    "eses": {},
+    "esmx": {},
+    "frfr": {},
+    "itit": {},
+    "kokr": {},
+    "media": {
+        "config": {
+            "download_progress_info": [
+                0,
+                10000000000,
+                19000000000
+            ],
+            "install_progress_info": [
+                60000000,
+                0,
+                0
+            ],
+            "install_progress_speed": 1000000
+        }
+    },
+    "platform": {
+        "mac": {
+            "config": {
+                "binary_launch_path": "Support/StormSwitcher.app",
+                "binary_version_path": "Support/StormSwitcher.app",
+                "min_spec": {
+                    "required_osspecs": {
+                        "10.8": {
+                            "required_subversion": 0
+                        }
+                    }
+                },
+                "register_game_info": {
+                    "search_dirs": [
+                        "/Applications/Heroes of the Storm Tech Alpha"
+                    ]
+                },
+                "shortcut_target_path": "Heroes of the Storm.app",
+                "tags": [
+                    "OSX",
+                    "code"
+                ],
+                "uninstall": [
+                    {
+                        "delete_folder": {
+                            "relative_paths": [
+                                "BNTData",
+                                "Mods",
+                                "Support",
+                                "Versions",
+                                "Heroes of the Storm.app",
+                                "Blizzard All-Stars.app",
+                                "Blizzard All-Stars Editor.app"
+                            ],
+                            "root": "%game%"
+                        }
+                    },
+                    {
+                        "delete_file": {
+                            "relative_paths": [
+                                ".agent.db",
+                                ".patch.result",
+                                ".build.db",
+                                ".build.info",
+                                "Launcher.db",
+                                "maps/Heroes/(10)TryMeMode.StormMap",
+                                "SetupOSX.mpq"
+                            ],
+                            "root": "%game%"
+                        }
+                    }
+                ]
+            }
+        },
+        "win": {
+            "config": {
+                "binary_launch_path": "Support/StormSwitcher.exe",
+                "binary_version_path": "Support/StormSwitcher.exe",
+                "register_game_info": {
+                    "search_dirs": [
+                        "%PROGRAM_FILES%/Heroes of the Storm Tech Alpha",
+                        "c:/Games/Heroes of the Storm Tech Alpha"
+                    ]
+                },
+                "shortcut_target_path": "Heroes of the Storm.exe",
+                "tags": [
+                    "Windows",
+                    "code"
+                ],
+                "uninstall": [
+                    {
+                        "delete_registry_key": {
+                            "key_type": 3,
+                            "root": "SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                            "subkey": "Heroes of the Storm Tech Alpha"
+                        }
+                    },
+                    {
+                        "delete_registry_key": {
+                            "key_type": 3,
+                            "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                            "subkey": "Heroes of the Storm Tech Alpha"
+                        }
+                    },
+                    {
+                        "delete_folder": {
+                            "relative_paths": [
+                                "BNTData",
+                                "Mods",
+                                "Support",
+                                "Support64",
+                                "Versions"
+                            ],
+                            "root": "%game%"
+                        }
+                    },
+                    {
+                        "delete_folder": {
+                            "relative_paths": [
+                                "Blizzard Entertainment/Heroes of the Storm Tech Alpha*"
+                            ],
+                            "root": "%programfilescommon%"
+                        }
+                    },
+                    {
+                        "delete_file": {
+                            "relative_paths": [
+                                ".agent.db",
+                                ".patch.result",
+                                ".build.db",
+                                ".build.info",
+                                "Heroes of the Storm.exe",
+                                "Blizzard All-Stars.exe",
+                                "Blizzard All-Stars Editor.exe",
+                                "Launcher.db",
+                                "maps/Heroes/(10)TryMeMode.StormMap",
+                                "SetupWin.mpq"
+                            ],
+                            "root": "%game%"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "plpl": {},
+    "ptbr": {},
+    "ruru": {},
+    "zhcn": {},
+    "zhtw": {}
+}
