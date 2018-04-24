@@ -1,5 +1,6 @@
-Name!STRING:0|Path!STRING:0|Hosts!STRING:0|ConfigPath!STRING:0|Servers!STRING:0
-tw|tpr/prov|blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data|
-us|tpr/prov|blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data|
-kr|tpr/prov|blzddistkr1-a.akamaihd.net blizzard.nefficient.co.kr blzddist1-a.akamaihd.net|tpr/configs/data|
-eu|tpr/prov|blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data|
+Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
+## seqn = 2626
+eu|tpr/prov|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net?maxhosts=3 http://level3.blizzard.com?maxhosts=3|configs/data
+kr|tpr/prov|blzddist1-a.akamaihd.net blzddistkr1-a.akamaihd.net blizzard.nefficient.co.kr|http://blzddist1-a.akamaihd.net?maxhosts=3 http://blzddistkr1-a.akamaihd.net?maxhosts=3 http://blizzard.nefficient.co.kr?maxhosts=3|configs/data
+us|tpr/prov|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net?maxhosts=3 http://level3.blizzard.com?maxhosts=3|configs/data
+tw|tpr/prov|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net?maxhosts=3 http://level3.blizzard.com?maxhosts=3|configs/data
