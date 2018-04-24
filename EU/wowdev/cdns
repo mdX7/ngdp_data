@@ -1,5 +1,6 @@
-Name!STRING:0|Path!STRING:0|Hosts!STRING:0|ConfigPath!STRING:0
-us|tpr/wowdev|edgecast.blizzard.com blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data
-eu|tpr/wowdev|edgecast.blizzard.com blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data
-kr|tpr/wowdev|blzddistkr1-a.akamaihd.net blizzard.nefficient.co.kr blzddist1-a.akamaihd.net|tpr/configs/data
-xx|tpr/wowdev|edgecast.blizzard.com blzddist1-a.akamaihd.net level3.blizzard.com|tpr/configs/data
+Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
+## seqn = 2562
+eu|tpr/wowdev|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net?maxhosts=3 http://level3.blizzard.com?maxhosts=3|configs/data
+kr|tpr/wowdev|blzddist1-a.akamaihd.net blzddistkr1-a.akamaihd.net|http://blzddist1-a.akamaihd.net?maxhosts=3 http://blzddistkr1-a.akamaihd.net?maxhosts=3|configs/data
+xx|tpr/wowdev|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net?maxhosts=3 http://level3.blizzard.com?maxhosts=3|configs/data
+us|tpr/wowdev|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net?maxhosts=3 http://level3.blizzard.com?maxhosts=3|configs/data
