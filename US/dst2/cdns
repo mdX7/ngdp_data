@@ -1,4 +1,4 @@
-Name!STRING:0|Path!STRING:0|Hosts!STRING:0|ConfigPath!STRING:0
-us|tpr/dst2|blzddist1-a.akamaihd.net level3.blizzard.com edgecast.blizzard.com|tpr/configs/data
-eu|tpr/dst2|blzddist1-a.akamaihd.net level3.blizzard.com edgecast.blizzard.com|tpr/configs/data
-
+Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
+## seqn = 14978
+eu|tpr/dst2|blzddist1-a.akamaihd.net level3.blizzard.com edgecast.blizzard.com|http://blzddist1-a.akamaihd.net http://level3.blizzard.com https://blzddist1-a.akamaihd.net/?fallback=1 http://edgecast.blizzard.com|tpr/configs/data
+us|tpr/dst2|blzddist1-a.akamaihd.net level3.blizzard.com edgecast.blizzard.com|http://blzddist1-a.akamaihd.net http://level3.blizzard.com https://blzddist1-a.akamaihd.net/?fallback=1 http://edgecast.blizzard.com|tpr/configs/data
