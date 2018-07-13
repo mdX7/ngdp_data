@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 27138
+us|199f7f4c60c47a5f1fec1f33b03fab30|e77ececa720be64e40169ab14ae3bb7c||5164076|5164076-Takehome|e5419b4ee1a0cace0339b2875ca915cb
