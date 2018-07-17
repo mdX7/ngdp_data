@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+us|7c29b8ccf6db369045b5e5e14885fb44|e30afe9b087364cabbb0d4ec3ec8c4c9||3009901|0.04.3009901|
+eu|7c29b8ccf6db369045b5e5e14885fb44|e30afe9b087364cabbb0d4ec3ec8c4c9||3009901|0.04.3009901|
