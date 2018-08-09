@@ -1,0 +1,3 @@
+Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
+eu|tpr/viper|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net http://level3.blizzard.com https://blzddist1-a.akamaihd.net/?fallback=1|tpr/configs/data
+us|tpr/viper|blzddist1-a.akamaihd.net level3.blizzard.com|http://blzddist1-a.akamaihd.net http://level3.blizzard.com https://blzddist1-a.akamaihd.net/?fallback=1|tpr/configs/data
