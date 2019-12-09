@@ -1,4 +1,5 @@
 Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-eu|tpr/b04|level3.blizzard.com|http://level3.blizzard.com/?maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1|tpr/configs/data
-kr|tpr/b04|blizzard.gcdn.cloudn.co.kr level3.blizzard.com|http://blizzard.gcdn.cloudn.co.kr https://blizzard.gcdn.cloudn.co.kr/?fallback=1 http://level3.blizzard.com/?maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1 https://blzddistkr1-a.akamaihd.net/?fallback=1|tpr/configs/data
-us|tpr/b04|level3.blizzard.com|http://level3.blizzard.com/?maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1|tpr/configs/data
+## seqn = 141442
+eu|tpr/b04|level3.blizzard.com|http://level3.blizzard.com/?maxhosts=10 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
+kr|tpr/b04|level3.blizzard.com blizzard.gcdn.cloudn.co.kr|http://blizzard.gcdn.cloudn.co.kr/?maxhosts=5 http://level3.blizzard.com/?maxhosts=5 https://blizzard.gcdn.cloudn.co.kr/?fallback=1&maxhosts=4 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://blzddistkr1-a.akamaihd.net/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
+us|tpr/b04|level3.blizzard.com|http://level3.blizzard.com/?maxhosts=10 https://blzddist1-a.akamaihd.net/?fallback=1&maxhosts=4 https://level3.ssl.blizzard.com/?fallback=1&maxhosts=4|tpr/configs/data
