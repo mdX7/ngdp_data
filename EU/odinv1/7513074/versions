@@ -1,0 +1,5 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 164418
+us|52eaf9a6cc2316aba36d9ceba35009de|a472bf8f1b986ecd3f6f08543ed40cb0||7513074|rel_7513074_TU_India_3_14_v1_dev|bdaa7cd37a2979f8ef63fcdc71199f08
+eu|52eaf9a6cc2316aba36d9ceba35009de|a472bf8f1b986ecd3f6f08543ed40cb0||7513074|rel_7513074_TU_India_3_14_v1_dev|bdaa7cd37a2979f8ef63fcdc71199f08
+kr|52eaf9a6cc2316aba36d9ceba35009de|a472bf8f1b986ecd3f6f08543ed40cb0||7513074|rel_7513074_TU_India_3_14_v1_dev|bdaa7cd37a2979f8ef63fcdc71199f08
