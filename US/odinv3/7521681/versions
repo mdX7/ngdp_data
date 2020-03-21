@@ -1,3 +1,3 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 166722
-us|68d19f5887477d035dbe22cd5bf89233|edd8279ac6b5850b66d056f088b440e6||7521681|release_7521681_TU_JULIET_3_19_v1_patch|abc8c8bc9eeb38e6415d3572087e7fb9
+## seqn = 167107
+us|68d19f5887477d035dbe22cd5bf89233|ac9ee12a52d97eb2cdb3b72e1db66e1b||7521681|release_7521681_TU_JULIET_3_19_v1_patch|abc8c8bc9eeb38e6415d3572087e7fb9
