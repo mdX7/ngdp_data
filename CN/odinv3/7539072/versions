@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 170373
+us|299a46ae5e05724bc6e081c023a87efb|72932da8c47956fd6064523b8452587f||7539072|release_7539072_tu_juliet_3_26_v1_dev|abc8c8bc9eeb38e6415d3572087e7fb9
