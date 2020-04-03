@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 176520
+us|aa80a1a091b9b4b544c45c5c4b735206|a1d259c738a0783f5de686c391c621ac||7557297|release_7557297_TU_KILO_4_2_patch_dev|e64fe4a3a1423e18a284ceecf6099b96
