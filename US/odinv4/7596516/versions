@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 188034
+us|5eb76645e458fab03ad8ca1366f2bd2e|28eaf45c16762bf208becf690cb912c5||7596516|release_7596516_TU_KILO_4_18_v1_dwdev_dev|307ea85289b22ada3e7da14066484d76
