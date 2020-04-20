@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 188227
+us|d60b84355f6cd4a393f963356f9979a8|4b638d2675ebee7bb458f92dd28bd8f0||1279058|Win7_Bink_Fix_1279058_dev|8b59cb7beb2de8fa90e14b1ddde4e2c3
