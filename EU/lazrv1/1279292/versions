@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 196355
+us|2552632bdd7fcad96e2c8edcf1963070|30727e85ab84925a3b81d93f7e0104f7||1279292|CRC_1279292_V1_signed_ship|8b59cb7beb2de8fa90e14b1ddde4e2c3
