@@ -1,0 +1,4 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 204099
+us|7648951572c8a6eaca0ee2ae18605e6c|59f7977ec69495cce15ab23b25b4d47f||7547738|live_tu_kilo_exe_patch_5_5_ETU_dev|cfbc2ff2812ee1f55b8f0e3859630bea
+eu|7648951572c8a6eaca0ee2ae18605e6c|59f7977ec69495cce15ab23b25b4d47f||7547738|live_tu_kilo_exe_patch_5_5_ETU_dev|cfbc2ff2812ee1f55b8f0e3859630bea
