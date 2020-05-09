@@ -1,0 +1,5 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 204233
+us|8e18a047169b6dfb4c7210505b4f7f0e|fc776422c89cabbb3eb707c0dd508de6||7647409|release_7647409_TU_LIMA_5_08_v3_dev|70767915d182bec6cf0a60bbd23ad3a0
+eu|8e18a047169b6dfb4c7210505b4f7f0e|fc776422c89cabbb3eb707c0dd508de6||7647409|release_7647409_TU_LIMA_5_08_v3_dev|70767915d182bec6cf0a60bbd23ad3a0
+kr|8e18a047169b6dfb4c7210505b4f7f0e|fc776422c89cabbb3eb707c0dd508de6||7647409|release_7647409_TU_LIMA_5_08_v3_dev|70767915d182bec6cf0a60bbd23ad3a0
