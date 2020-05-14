@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 207369
+us|9ba7fba6f3552ab6f09cff576bc25ef5|17741e5adb4b6ff98a819c0d3ee09d6e||7654664|release_7654664_TU_MIKE_5_12_v2_dev|307ea85289b22ada3e7da14066484d76
