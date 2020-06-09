@@ -1,4 +1,4 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 224459
-us|4a7b832d0f9abd4d5c58dbb23d1b3da7|89b9d4f1c3940259f3f1a14a4fb78c6a||7721240|QA_Target_2_Raw_7721238_exeB_dev|5bf81b6c520b1515b3fefa92c615ed2c
-eu|4a7b832d0f9abd4d5c58dbb23d1b3da7|89b9d4f1c3940259f3f1a14a4fb78c6a||7721240|QA_Target_2_Raw_7721238_exeB_dev|5bf81b6c520b1515b3fefa92c615ed2c
+## seqn = 224642
+us|4a7b832d0f9abd4d5c58dbb23d1b3da7|bfc80a2eb300ec528054b0e8dd066d66||7721240|QA_Target_2_Raw_7721238_exeB_dev|5bf81b6c520b1515b3fefa92c615ed2c
+eu|4a7b832d0f9abd4d5c58dbb23d1b3da7|bfc80a2eb300ec528054b0e8dd066d66||7721240|QA_Target_2_Raw_7721238_exeB_dev|5bf81b6c520b1515b3fefa92c615ed2c
