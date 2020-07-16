@@ -1,0 +1,4 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 252236
+us|7ca634df46eda69fcac193dcf26d01c9|0e8ba5533b16630365973ebd3d0acd4a||7827165|T9_QA_Target_2_7827165_dev|a65eee02e929eea141b9d0b9e3ba3bee
+eu|1c609e2cda2481702a788167548f2b3b|0e8ba5533b16630365973ebd3d0acd4a||7827165|T9_QA_Target_2_7827165_esports_dev|a65eee02e929eea141b9d0b9e3ba3bee
