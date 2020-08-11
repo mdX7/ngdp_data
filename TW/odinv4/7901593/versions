@@ -1,3 +1,3 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 274250
-us|c82d5ef1822be5fad6f54f7cd3856c64|bc0657b4df627814d4c6d94bf1b2c769||7901593|release_7901593_TU_PAPA_8_9_dev|9100a581d7bae18d5be15229f7b78f08
+## seqn = 274378
+us|c82d5ef1822be5fad6f54f7cd3856c64|57a68c4ab6d00ba42ac5faa478e0f93f||7901593|release_7901593_TU_PAPA_8_9_dev|9100a581d7bae18d5be15229f7b78f08
