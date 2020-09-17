@@ -1,0 +1,3 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 304962
+us|043e03c22df019886b5ce8484f81738e|504ffb32825f13d07d6ff7c22d6e621f||8039902|release_8039902_TU_QUEBEC_9_15_dev|9100a581d7bae18d5be15229f7b78f08
