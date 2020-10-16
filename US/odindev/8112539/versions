@@ -1,0 +1,4 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 340099
+us|66f34d650eaa6d554bb92a50f730582a|fc4cd2ad790b601c21cb4f11d100f7ae||8112539|rel_8112539_TU_R_10_2_dwlive_dev|c3c739e2c01d88ba0273d5c64269dcf7
+eu|66f34d650eaa6d554bb92a50f730582a|fc4cd2ad790b601c21cb4f11d100f7ae||8112539|rel_8112539_TU_R_10_2_dwlive_dev|c3c739e2c01d88ba0273d5c64269dcf7
