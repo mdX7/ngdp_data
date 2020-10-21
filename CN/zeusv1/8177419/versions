@@ -1,4 +1,4 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 347144
-us|b41370cf1e311bf5a2d80b2529c2da36|c2c991e366cebfa6c6f30f9a19a29cb1||8177419|main_clean_8177419_dev|397261c985659c84e8fe4c9c7b656536
-eu|f62b972b0bdf4b79f6e5c63019203641|c2c991e366cebfa6c6f30f9a19a29cb1||8177419|main_clean_8177419_dev_esports|397261c985659c84e8fe4c9c7b656536
+## seqn = 347593
+us|b41370cf1e311bf5a2d80b2529c2da36|7fae0e0583ce341dd365cba018c2cefa||8177419|main_clean_8177419_dev|397261c985659c84e8fe4c9c7b656536
+eu|f62b972b0bdf4b79f6e5c63019203641|7fae0e0583ce341dd365cba018c2cefa||8177419|main_clean_8177419_dev_esports|397261c985659c84e8fe4c9c7b656536
