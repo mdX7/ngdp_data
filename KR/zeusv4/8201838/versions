@@ -1,0 +1,5 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 352208
+us|a56d68f51b4027bb406c6edc0ce75271|9759939d51ee445aeaaf0b3fe248d719||8201838|main_bo5_TUB_8196240_discord_dev|90c403dc411b33776e078b8e0ca2d22c
+eu|47012d77d4dc751211cb6035ad3c0b75|9759939d51ee445aeaaf0b3fe248d719||8196240|main_bo5_TUB_8196240_discord_dev_esports|90c403dc411b33776e078b8e0ca2d22c
+kr|9a4e11e612246a9d85aade27c039b345|9759939d51ee445aeaaf0b3fe248d719||8184388|release_bo5_TUA_8184388_vendor|90c403dc411b33776e078b8e0ca2d22c
