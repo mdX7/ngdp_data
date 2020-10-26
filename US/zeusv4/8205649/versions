@@ -1,0 +1,5 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 353233
+us|77152beff8242e1d7a034649df11fd62|e750e8b198ef966f350bd73d1827ccbe||8205649|main_bo5_TUB_8205649_dev|90c403dc411b33776e078b8e0ca2d22c
+eu|ece0bb9c6b8fb0be71ae1444c2f9eef9|e750e8b198ef966f350bd73d1827ccbe||8205649|main_bo5_TUB_8205649_dev_esports|90c403dc411b33776e078b8e0ca2d22c
+kr|77152beff8242e1d7a034649df11fd62|e750e8b198ef966f350bd73d1827ccbe||8205649|main_bo5_TUB_8205649_dev|90c403dc411b33776e078b8e0ca2d22c
