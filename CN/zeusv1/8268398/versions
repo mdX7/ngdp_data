@@ -1,5 +1,5 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 369346
-us|c1b69805d9345379d86967ae3901ca4d|4a0cda5b9be33bab4e90b7958430f85d||8268398|main_clean_8268398_dev|dd139abd2c28d6c144a29550a3cdc26b
-eu|c53dbfc3a24bd9de87c826a1e8c3aa4e|4a0cda5b9be33bab4e90b7958430f85d||8268398|main_clean_8268398_dev_esports|dd139abd2c28d6c144a29550a3cdc26b
-kr|683ecf2aa5ae8e696c03e55a319185c8|4a0cda5b9be33bab4e90b7958430f85d||8143488|Test_4k|ef51bb46478557cbca79da4f01ba1953
+## seqn = 369539
+us|c1b69805d9345379d86967ae3901ca4d|fb9a0977b438071bb65e1e6a50b78ddf||8268398|main_clean_8268398_dev|dd139abd2c28d6c144a29550a3cdc26b
+eu|c53dbfc3a24bd9de87c826a1e8c3aa4e|fb9a0977b438071bb65e1e6a50b78ddf||8268398|main_clean_8268398_dev_esports|dd139abd2c28d6c144a29550a3cdc26b
+kr|683ecf2aa5ae8e696c03e55a319185c8|fb9a0977b438071bb65e1e6a50b78ddf||8143488|Test_4k|ef51bb46478557cbca79da4f01ba1953
