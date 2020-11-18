@@ -1,3 +1,3 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 380482
-us|b8b7e45c100bf6ed0991a4fac3b9acb2|0070922d5d8553c06e7c3bda707076cc||8309452|rel_8309452_TANGO_11_16_dev|3ccc824b32260025d296a56aa1fe4925
+## seqn = 380611
+us|b8b7e45c100bf6ed0991a4fac3b9acb2|cc1eb0943293c638c73fc0eb5f9e021a||8309452|rel_8309452_TANGO_11_16_dev|3ccc824b32260025d296a56aa1fe4925
