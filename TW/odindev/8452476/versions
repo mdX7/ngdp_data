@@ -1,0 +1,4 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 419587
+us|6bab662012a7d1e8ed7eb631e9ddf8ef|a4753a491e47be2d6ce0d1494f62a2ea||8452476|live_8452476_TU_T_1_5_F_LD_signed_dev|a71472c3929822706ec674c9a13a2511
+eu|6bab662012a7d1e8ed7eb631e9ddf8ef|a4753a491e47be2d6ce0d1494f62a2ea||8452476|live_8452476_TU_T_1_5_F_LD_signed_dev|a71472c3929822706ec674c9a13a2511
