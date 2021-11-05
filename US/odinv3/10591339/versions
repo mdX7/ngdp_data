@@ -1,0 +1,5 @@
+Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
+## seqn = 807250
+us|bace5cab3c4bff559a3b04b9084a0787|47d52c6ef08bce166a5b3e9a8bf4eacb||10591339|1.44.0.10591339d|b89ad1ccaac2e106e496a8a8ec338ad8
+eu|6d6af256dcf8ef7c9aeaa2fb4326cff3|47d52c6ef08bce166a5b3e9a8bf4eacb||10579855|1.44.0.10579855d|b89ad1ccaac2e106e496a8a8ec338ad8
+kr|c8831b4d129b5ca47c31586e761e57d1|47d52c6ef08bce166a5b3e9a8bf4eacb||10577228|1.44.0.10577228d|b89ad1ccaac2e106e496a8a8ec338ad8
