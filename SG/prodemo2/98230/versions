@@ -1,3 +1,3 @@
 Region!STRING:0|BuildConfig!HEX:16|CDNConfig!HEX:16|KeyRing!HEX:16|BuildId!DEC:4|VersionsName!String:0|ProductConfig!HEX:16
-## seqn = 1075010
-us|3d4c1b8fb5ae72925535bf8a146eede6|a1290eb383ff05b3754bed5991be33dc||98230|2.00.8.2.98230|3c149a7c473ba54f53bef5f36818d8dc
+## seqn = 1075906
+us|3d4c1b8fb5ae72925535bf8a146eede6|8c2515878615f55c24b15aba9b8cf988||98230|2.00.8.2.98230|3c149a7c473ba54f53bef5f36818d8dc
