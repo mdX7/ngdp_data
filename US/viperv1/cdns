@@ -1,4 +1,1 @@
-Name!STRING:0|Path!STRING:0|Hosts!STRING:0|Servers!STRING:0|ConfigPath!STRING:0
-eu|tpr/viperv|level3.blizzard.com|http://level3.blizzard.com https://blzddist1-a.akamaihd.net/?fallback=1|tpr/configs/data
-us|tpr/viperv|level3.blizzard.com|http://level3.blizzard.com https://blzddist1-a.akamaihd.net/?fallback=1|tpr/configs/data
-kr|tpr/viperv|blizzard.gcdn.cloudn.co.kr|http://blizzard.gcdn.cloudn.co.kr https://blzddist1-a.akamaihd.net/?fallback=1 https://blzddistkr1-a.akamaihd.net/?fallback=1|tpr/configs/data
+Not Found: No matched data for selector 'v2/products/viperv1/cdns'
